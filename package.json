@@ -20,6 +20,7 @@
     "test-watch": "grommet check -t -- --watchAll"
   },
   "dependencies": {
+    "grommet": "^2.0.0-alpha.0",
     "grommet-icons": "^0.10.1",
     "prop-types": "^15.5.10",
     "react": "^16.0.0",
