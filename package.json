@@ -20,8 +20,6 @@
     "test-watch": "grommet check -t -- --watchAll"
   },
   "dependencies": {
-    "grommet": "https://github.com/grommet/grommet/tarball/NEXT-stable",
-    "grommet-icons": "https://github.com/grommet/grommet-icons/tarball/stable",
     "prop-types": "^15.5.10",
     "react": "^16.0.0",
     "react-desc": "^2.1.0",
