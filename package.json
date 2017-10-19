@@ -49,7 +49,6 @@
     "eslint-plugin-import": "^2.2.0",
     "eslint-plugin-jsx-a11y": "^5.1.1",
     "eslint-plugin-react": "^7.1.0",
-    "grommet-cli": "^5.1.0",
     "pre-commit": "^1.2.2",
     "react-dev-utils": "^0.4.2",
     "react-test-renderer": "^16.0.0",
